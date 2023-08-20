@@ -1,4 +1,9 @@
 pandas
 numpy
+matplotlib
 transformers
 sentencepiece
+wandb
+scikit-learn
+datasets
+accelerate
