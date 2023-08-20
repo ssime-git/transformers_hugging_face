@@ -3,3 +3,4 @@ data/*.zip
 data/shoe_boot_sandal/
 notebook/wandb
 notebook/local
+.devcontainer/
